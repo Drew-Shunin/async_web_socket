@@ -1,0 +1,1 @@
+python3 -m pylint client.py server.py stats_handler.py
